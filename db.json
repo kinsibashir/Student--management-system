@@ -1,0 +1,100 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Ali Hassan",
+      "email": "ali.hassan@gmail.com",
+      "course": "Computer Science",
+      "avatar": "https://avatars.dicebear.com/api/initials/Ali%20Hassan.svg"
+    },
+    {
+      "id": "2",
+      "name": "Amina Yusuf",
+      "email": "amina.yusuf@gmail.com",
+      "course": "Business",
+      "avatar": "https://avatars.dicebear.com/api/initials/Amina%20Yusuf.svg"
+    },
+    {
+      "name": "Mohamed Aden",
+      "email": "mohamed.aden@gmail.com",
+      "course": "Engineering",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Fatima Noor",
+      "email": "fatima.noor@gmail.com",
+      "course": "Mathematics",
+      "avatar": "https://avatars.dicebear.com/api/initials/Fatima%20Noor.svg"
+    },
+    {
+      "id": "5",
+      "name": "Hassan Abdi",
+      "email": "hassan.abdi@gmail.com",
+      "course": "Physics",
+      "avatar": "https://avatars.dicebear.com/api/initials/Hassan%20Abdi.svg"
+    },
+    {
+      "id": "6",
+      "name": "Layla Warsame",
+      "email": "layla.warsame@gmail.com",
+      "course": "Chemistry",
+      "avatar": "https://avatars.dicebear.com/api/initials/Layla%20Warsame.svg"
+    },
+    {
+      "id": "8adf",
+      "name": "kinsi bashir",
+      "email": "kinsibashir@gmail.com",
+      "course": "Software engineering program "
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "message": "Hello, I need info."
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane.doe@gmail.com",
+      "message": "Hi, please contact me."
+    },
+    {
+      "id": "3",
+      "name": "Ali Ahmed",
+      "email": "ali.ahmed@gmail.com",
+      "message": "I have a question about registration."
+    },
+    {
+      "id": "4",
+      "name": "Amina Hassan",
+      "email": "amina.hassan@gmail.com",
+      "message": "Requesting support for courses."
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Library Access",
+      "description": "Students can borrow books, access journals, and use digital learning materials."
+    },
+    {
+      "id": "2",
+      "title": "Course Registration",
+      "description": "Students register for courses and manage their academic schedule."
+    },
+    {
+      "id": "3",
+      "title": "ICT Support",
+      "description": "Technical support for student portal, email, and university systems."
+    },
+    {
+      "id": "4",
+      "title": "Student Counseling",
+      "description": "Guidance and counseling services for academic and personal support."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
